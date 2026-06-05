@@ -1,7 +1,7 @@
 title: Linked IT
 description: Azure managed services, cloud security posture, and governance insights.
-url: "https://linkedit.au"
-baseurl: "/linkeditblogsite"
+url: "https://www.linkedit.au"
+baseurl: ""
 timezone: Australia/Sydney
 
 permalink: /blog/:year/:month/:day/:title/
