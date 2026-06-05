@@ -1,0 +1,10 @@
+- label: Home
+  url: /
+- label: Services
+  url: /#services
+- label: Security
+  url: /#security-posture
+- label: Blog
+  url: /blog/
+- label: Contact
+  url: /#contact

@@ -1,0 +1,9 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+.bundle-home/
+vendor/
+Gemfile.lock
+.jekyll-server.out
+.jekyll-server.err

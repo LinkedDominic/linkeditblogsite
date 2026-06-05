@@ -1,0 +1,13 @@
+<header class="site-header">
+  <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+    <img class="brand-logo" src="{{ '/assets/images/logo_long.png' | relative_url }}" alt="{{ site.title }}">
+  </a>
+
+  <nav class="site-nav" aria-label="Primary navigation">
+    {% for item in site.data.navigation %}
+      <a href="{{ item.url | relative_url }}">{{ item.label }}</a>
+    {% endfor %}
+  </nav>
+
+  <a class="header-cta" href="{{ '/#contact' | relative_url }}">Book assessment</a>
+</header>

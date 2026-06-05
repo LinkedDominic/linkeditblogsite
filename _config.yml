@@ -1,0 +1,25 @@
+title: Linked IT
+description: Azure managed services, cloud security posture, and governance insights.
+url: ""
+baseurl: ""
+timezone: Australia/Sydney
+
+permalink: /blog/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Linked IT
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

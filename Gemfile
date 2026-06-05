@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.4"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "csv"
+gem "bigdecimal"
+gem "tzinfo"
+gem "tzinfo-data"
+gem "webrick"
