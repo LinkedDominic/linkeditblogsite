@@ -7,7 +7,7 @@ permalink: /blog/
 <section class="blog-page">
   <div class="section-heading">
     <h1>Latest insights</h1>
-    <p>Azure managed services, cloud security posture, and governance guidance from the Linked IT team.</p>
+    <p></p>
   </div>
 
   <div class="blog-grid">

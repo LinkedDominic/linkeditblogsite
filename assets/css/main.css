@@ -532,9 +532,14 @@ svg {
 }
 
 .blog-page,
-.post-layout,
 .content-page {
   max-width: 860px;
+  margin: 0 auto;
+  padding: 64px var(--gutter);
+}
+
+.post-layout {
+  max-width: 1040px;
   margin: 0 auto;
   padding: 64px var(--gutter);
 }
@@ -554,6 +559,13 @@ svg {
 .post-header h1 {
   margin-top: 12px;
   font-size: clamp(34px, 5vw, 52px);
+}
+
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  margin-top: 14px;
 }
 
 .back-link {
@@ -578,6 +590,25 @@ svg {
 .post-content li,
 .content-page p {
   color: var(--text-muted);
+}
+
+.post-figure {
+  margin: 28px 0;
+}
+
+.post-figure img {
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  background: #fff;
+}
+
+.post-figure figcaption {
+  margin-top: 8px;
+  color: var(--text-muted);
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .site-footer {
