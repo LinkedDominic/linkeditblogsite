@@ -935,6 +935,33 @@ svg {
   color: var(--text-muted);
 }
 
+.post-content a,
+.content-page a {
+  color: var(--primary);
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.post-content a:hover,
+.content-page a:hover {
+  color: var(--primary-hover);
+  background: var(--primary-soft);
+}
+
+.post-contact-note {
+  margin-top: 36px;
+  padding: 18px;
+  background: var(--surface-container-low);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+}
+
+.post-contact-note p {
+  margin: 0;
+}
+
 .post-figure {
   margin: 28px 0;
 }
