@@ -3,7 +3,6 @@ title: "Monitoring Microsoft Entra Application Secrets Across Multiple Tenants w
 category: Continuous Monitoring
 excerpt: "Monitor expiring Microsoft Entra application secrets across multiple tenants with Azure Automation, Microsoft Graph PowerShell, and a daily email report."
 ---
-
 If you manage more than one Microsoft Entra tenant, keeping track of expiring application secrets can quickly become painful.
 
 In my case, I had multiple tenants I needed to monitor, including:

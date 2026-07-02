@@ -6,7 +6,7 @@ title: Azure and Microsoft 365 Consultant
 <section class="hero consultant-hero">
   <div class="hero-copy">
     <p class="hero-kicker">Melbourne, Australia</p>
-    <h1>Azure and Microsoft 365 consultant for secure cloud operations</h1>
+    <h1>Azure and Microsoft 365 admin for secure cloud operations</h1>
     <p>I'm Dominic Eames, working through Linked IT to help organisations solve business problems, secure Azure and Microsoft 365, and improve the way cloud platforms are run day to day.</p>
     <div class="button-row">
       <a class="button button-primary" href="mailto:dominic.eames@linkedit.au">Contact me</a>
@@ -25,7 +25,7 @@ title: Azure and Microsoft 365 Consultant
       </div>
       <div class="metric">
         <strong>VIC</strong>
-        <span>Melbourne-based consultant</span>
+        <span>Melbourne-based</span>
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@ title: Azure and Microsoft 365 Consultant
       <div>
         <p class="mono-label">CONSULTANT SNAPSHOT</p>
         <h2>Dominic Eames</h2>
-        <p>Azure & Microsoft 365 Consultant</p>
+        <p>Azure & Microsoft 365</p>
       </div>
     </div>
 
@@ -87,7 +87,7 @@ title: Azure and Microsoft 365 Consultant
 
 <section class="section section-band" id="services">
   <div class="section-heading">
-    <h2>Consulting services for Azure and Microsoft 365</h2>
+    <h2>Services for Azure and Microsoft 365</h2>
     <p>Practical consulting for organisations that need clearer cloud operations, stronger security, and experienced technical support without unnecessary complexity.</p>
   </div>
 
@@ -170,7 +170,7 @@ title: Azure and Microsoft 365 Consultant
       <p>My work sits between operations and security: understanding the business problem, reviewing the current platform, reducing risk, and making the environment easier to support.</p>
     </div>
 
-    <div class="table-card profile-table" aria-label="Consultant capability summary">
+    <div class="table-card profile-table" aria-label="Capability summary">
       <div class="table-row header mono-label">
         <span>Area</span>
         <span>Focus</span>
@@ -203,10 +203,10 @@ title: Azure and Microsoft 365 Consultant
 <section class="dark-band">
   <div class="dark-band-inner">
     <div>
-      <p class="mono-label">SECURITY-FOCUSED CLOUD CONSULTING</p>
+      <p class="mono-label">SECURITY-FOCUSED CLOUD Administration</p>
       <h2>Built from real systems administration experience, not theory.</h2>
     </div>
-    <p>I approach Azure and Microsoft 365 consulting from the operational side: what is risky, what breaks, what is hard to support, and what can be improved without making the environment harder to run.</p>
+    <p>I approach Azure and Microsoft 365 admin from the operational side: what is risky, what breaks, what is hard to support, and what can be improved without making the environment harder to run.</p>
   </div>
 </section>
 
@@ -257,8 +257,8 @@ title: Azure and Microsoft 365 Consultant
   <div class="contact-panel">
     <div>
       <p class="mono-label">CONTACT</p>
-      <h2>Need Azure or Microsoft 365 consulting support?</h2>
-      <p>Contact me for Azure health checks, Microsoft 365 tenant reviews, Entra ID security reviews, or ongoing Azure/M365 consulting.</p>
+      <h2>Need Azure or Microsoft 365  support?</h2>
+      <p>Contact me for Azure health checks, Microsoft 365 tenant reviews, Entra ID security reviews, or ongoing Azure/M365.</p>
     </div>
     <div class="contact-actions">
       <a class="button button-primary" href="mailto:dominic.eames@linkedit.au">dominic.eames@linkedit.au</a>
